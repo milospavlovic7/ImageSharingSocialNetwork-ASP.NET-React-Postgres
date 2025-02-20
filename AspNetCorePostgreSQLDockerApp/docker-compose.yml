@@ -1,0 +1,36 @@
+services:
+  web:
+    container_name: 'aspnetcoreapp'
+    image: 'aspnetcoreapp'
+    build:
+      context: .
+      dockerfile: aspnetcore.dockerfile
+    ports:
+     - "5000:5000"
+    depends_on:
+     - "postgres"
+    volumes:
+      - data-protection-keys:/root/.aspnet/DataProtection-Keys
+      - ./wwwroot/images:/var/www/aspnetcoreapp/wwwroot/images
+    networks:
+      - aspnetcoreapp-network
+
+  postgres:
+    container_name: 'postgres'
+    image: postgres:13
+    environment:
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - aspnetcoreapp-network
+
+networks:
+  aspnetcoreapp-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  data-protection-keys:

@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "dqto/N2PhJtIZ70DgSnzB3mwwxBeqrLDXyIaQA/hpr4=",
+  "Source": "AspNetCorePostgreSQLDockerApp",
+  "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCorePostgreSQLDockerApp\\wwwroot",
+      "Source": "AspNetCorePostgreSQLDockerApp",
+      "ContentRoot": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.css",
+      "SourceId": "AspNetCorePostgreSQLDockerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vluejgnswv",
+      "Integrity": "jcpusogxeJSzM+k6m9ar4m0zBprVSxt2XGXG0nJsEjg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.min.css",
+      "SourceId": "AspNetCorePostgreSQLDockerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+      "RelativePath": "css/site.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "seejaowrsj",
+      "Integrity": "TMZ3MFaz2aSqanW2YZAvEI3Vh5WLzqDXg42YEYHNf3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.min.css"
+    },
+    {
+      "Identity": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\favicon.ico",
+      "SourceId": "AspNetCorePostgreSQLDockerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90yqlj465b",
+      "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\web.config",
+      "SourceId": "AspNetCorePostgreSQLDockerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\",
+      "BasePath": "_content/AspNetCorePostgreSQLDockerApp",
+      "RelativePath": "web#[.{fingerprint}]?.config",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7o9g9tq1x",
+      "Integrity": "1wYtAQJXBZoBWKvmXwkXsEAV7y+T1BYAWsq3JWy2x+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web.config"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jcpusogxeJSzM+k6m9ar4m0zBprVSxt2XGXG0nJsEjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jcpusogxeJSzM+k6m9ar4m0zBprVSxt2XGXG0nJsEjg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMZ3MFaz2aSqanW2YZAvEI3Vh5WLzqDXg42YEYHNf3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMZ3MFaz2aSqanW2YZAvEI3Vh5WLzqDXg42YEYHNf3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.seejaowrsj.css",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMZ3MFaz2aSqanW2YZAvEI3Vh5WLzqDXg42YEYHNf3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "seejaowrsj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMZ3MFaz2aSqanW2YZAvEI3Vh5WLzqDXg42YEYHNf3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vluejgnswv.css",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jcpusogxeJSzM+k6m9ar4m0zBprVSxt2XGXG0nJsEjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vluejgnswv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jcpusogxeJSzM+k6m9ar4m0zBprVSxt2XGXG0nJsEjg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90yqlj465b.ico",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90yqlj465b"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "web.config",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\web.config",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wYtAQJXBZoBWKvmXwkXsEAV7y+T1BYAWsq3JWy2x+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1wYtAQJXBZoBWKvmXwkXsEAV7y+T1BYAWsq3JWy2x+s="
+        }
+      ]
+    },
+    {
+      "Route": "web.r7o9g9tq1x.config",
+      "AssetFile": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\web.config",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wYtAQJXBZoBWKvmXwkXsEAV7y+T1BYAWsq3JWy2x+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Dec 2022 17:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7o9g9tq1x"
+        },
+        {
+          "Name": "label",
+          "Value": "web.config"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1wYtAQJXBZoBWKvmXwkXsEAV7y+T1BYAWsq3JWy2x+s="
+        }
+      ]
+    }
+  ]
+}

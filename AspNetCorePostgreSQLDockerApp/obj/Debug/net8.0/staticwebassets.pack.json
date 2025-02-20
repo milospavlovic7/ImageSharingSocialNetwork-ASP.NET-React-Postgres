@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Root\\Projekti\\AspNetCorePostgreSQLDockerApp-master\\AspNetCorePostgreSQLDockerApp\\wwwroot\\web.config",
+      "PackagePath": "staticwebassets\\web.config"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCorePostgreSQLDockerApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCorePostgreSQLDockerApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspNetCorePostgreSQLDockerApp.props",
+      "PackagePath": "build\\AspNetCorePostgreSQLDockerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCorePostgreSQLDockerApp.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCorePostgreSQLDockerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspNetCorePostgreSQLDockerApp.props",
+      "PackagePath": "buildTransitive\\AspNetCorePostgreSQLDockerApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
